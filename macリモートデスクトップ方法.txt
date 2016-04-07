@@ -1,9 +1,10 @@
-mac�̃����[�g�f�X�N�g�b�v���@
-1�A�uRealVNC�v���C���X�g�[������B(http://www.vector.co.jp/soft/win95/net/se324464.html)
-2�A�uVNC �r���[��4�v���N������B
-3�A�I�v�V�������J���J���[���x�����t���ɐݒ肷��B
-4�A�Z�[�u(�ۑ�)���s���B(����N�����ɐݒ���c������)
-5�A��ԏ��߂̉�ʂɖ߂�mac�T�[�o�[�̃A�h���X����͂���B(10.11.192.250)
-6�A���̉�ʂŃp�X���[�h����͂���B(mac�̋��L��ʐݒ莞�ɐݒ肵���p�X���[�h�Bpassword��ݒ�)
-7�AOK�������B
-8�A�����[�g�f�X�N�g�b�v����
+macのリモートデスクトップ方法
+1、「RealVNC」をインストールする。(http://www.vector.co.jp/soft/win95/net/se324464.html)
+2、「VNC ビューワ4」を起動する。
+3、オプションを開きカラーレベルをフルに設定する。
+4、セーブ(保存)を行う。(次回起動時に設定を残すため)
+5、一番初めの画面に戻りmacサーバーのアドレスを入力する。(10.11.192.250)
+6、次の画面でパスワードを入力する。(macの共有画面設定時に設定したパスワード。passwordを設定)
+7、OKを押下。
+8、リモートデスクトップ完了
+9、
