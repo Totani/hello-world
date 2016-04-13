@@ -7,4 +7,4 @@
 6、次の画面でパスワードを入力する。(macの共有画面設定時に設定したパスワード。passwordを設定)
 7、OKを押下。
 8、リモートデスクトップ完了
-9、aaaaaaaaaaaaaaaaaaaaBBBBBBBBBBBBBBBBBBBBBB
+9、BBBBBBBBBBBBBBBBBBBBBB
